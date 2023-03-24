@@ -1,0 +1,54 @@
+body{
+background-image: linear-gradient(#B55ABB, #4E5AC8);
+background-attachment: fixed;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.main{
+  border: 1px solid white;
+  height: 450px;
+  width: 600px;
+  margin-left: 450px;
+  margin-top: 150px;
+  border-radius: 8px;
+  background-color: whitesmoke;
+}
+.main .tab{
+  margin-left: 260px;
+  text-align: center;
+  height: 300px;
+  width: 300px;
+  margin-top: 80px;
+
+}
+.input input{
+  margin-top: 10px;
+  height: 30px;
+  width: 200px;
+  border-radius: 10px;
+  border: none;
+  background-color: rgb(227, 227, 227);
+}
+.botton input{
+  background-color: rgb(24, 185, 24);
+  color: white;
+}
+.creat {
+margin-top: 70px;
+
+}
+.creat a{
+  color: rgb(166, 166, 166);
+  text-decoration: none;
+}
+.botton{
+  margin-top: 10px;
+  
+}
+.forgot a{
+  color: rgb(166, 166, 166);
+  text-decoration: none;
+}
+.forgot{
+  margin-top: 10px;
+  font-size: 14px;
+}
